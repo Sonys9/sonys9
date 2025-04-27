@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ![Sonys9's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonys9&show_icons=true&theme=transparent)
-[![Sonys9's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sonys9)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonys9&hide_progress=true)
 
 ## My bests
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sonys9&repo=M5Tool)](https://github.com/anuraghazra/github-readme-stats)
