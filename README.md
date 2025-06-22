@@ -12,7 +12,7 @@
 1. Morgan SQL
 2. Vue.js
 
-##
+## Profile info
 ![Sonys9's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonys9&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonys9&langs_count=8&layout=compact)
 
