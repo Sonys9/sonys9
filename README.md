@@ -1,14 +1,14 @@
 # Hi there 👋
 
-My knowledge:
+## My knowledge
 1. Python
 2. C
 
-What languages i want to learn:
+## What languages i want to learn
 1. JavaScript
 2. Java
 
-Other stuff i want to learn:
+## Other stuff i want to learn
 1. Morgan SQL
 2. Vue.js
 
