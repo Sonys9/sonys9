@@ -1,5 +1,17 @@
 # Hi there 👋
 
+My knowledge:
+1. Python
+2. C
+
+What languages i want to learn:
+1. JavaScript
+2. Java
+
+Other stuff i want to learn:
+1. Morgan SQL
+2. Vue.js
+
 ![Sonys9's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonys9&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonys9&langs_count=8&layout=compact)
 
