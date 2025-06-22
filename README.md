@@ -1,8 +1,8 @@
 # Hi there 👋
 
 ## My knowledge
-1. Python
-2. C
+1. Python (as junior)
+2. C (as junior)
 
 ## What languages i want to learn
 1. JavaScript
