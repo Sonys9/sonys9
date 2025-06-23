@@ -4,13 +4,14 @@
 1. Python (as junior)
 2. C (as junior)
 
-## What languages i want to learn
+## Which languages i want to learn
 1. JavaScript
 2. Java
 
 ## Other stuff i want to learn
 1. Morgan SQL
-2. Vue.js
+2. Next.JS
+3. React
 
 ## Profile info
 ![Sonys9's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonys9&show_icons=true&theme=transparent)
