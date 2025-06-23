@@ -5,7 +5,7 @@
 2. C (as junior)
 
 ## Which languages i want to learn
-1. JavaScript
+1. JavaScript (i know syntaxis btw)
 2. Java
 
 ## Other stuff i want to learn
