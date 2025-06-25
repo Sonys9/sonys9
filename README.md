@@ -9,7 +9,7 @@
 2. Java
 
 ## Other stuff i want to learn
-1. Morgan SQL
+1. Something fast SQL
 2. NestJS (or express)
 
 i love backend btw
