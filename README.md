@@ -10,8 +10,9 @@
 
 ## Other stuff i want to learn
 1. Morgan SQL
-2. Next.JS
-3. React
+2. NestJS (or express)
+
+i love backend btw
 
 ## Profile info
 ![Sonys9's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonys9&show_icons=true&theme=transparent)
