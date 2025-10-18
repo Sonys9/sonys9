@@ -1,8 +1,8 @@
 # Hi there 👋
 
 ## My knowledge
-1. Python (as junior)
-2. C (as junior)
+1. Python 
+2. A little C
 
 ## Which languages i want to learn
 1. JavaScript (i know syntaxis but i dont know any framework, i still can work with some modules, like mineflayer)
