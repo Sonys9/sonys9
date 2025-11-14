@@ -5,12 +5,8 @@
 2. A little C
 
 ## Which languages i want to learn
-1. JavaScript (i know syntaxis but i dont know any framework, i still can work with some modules, like mineflayer)
+1. JavaScript
 2. Java
-
-## Other stuff i want to learn
-1. Something fast SQL
-2. NestJS (or express)
 
 ## Profile info
 ![Sonys9's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonys9&show_icons=true&theme=transparent)
