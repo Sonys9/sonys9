@@ -1,16 +1,14 @@
 # Hi there 👋
 
 ## My knowledge
-1. Python 
-2. Rust
+1. Rust
+2. Python
+
+## What i want to learn
+1. Embedded Rust
+2. RISC-V architecture and assembly
+3. I2C, SPI, UART, (and later USB, PCIe, Ethernet, CAN) protocols
+4. FPGA
 
 ## Goals
-Several projects per year
-
-## Profile info
-![Sonys9's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonys9&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonys9&langs_count=8&layout=compact)
-
-## My bests
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sonys9&repo=TrafficDown)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sonys9&repo=M5Tool)](https://github.com/anuraghazra/github-readme-stats)
+Several cool projects per year
